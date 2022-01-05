@@ -1,0 +1,11 @@
+.idea
+.pytest_cache
+__pycache__
+venv
+
+# sphinx generated documentation
+docs/_build/
+
+# code coverage report
+.coverage
+htmlcov/
